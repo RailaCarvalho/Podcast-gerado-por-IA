@@ -5,7 +5,7 @@
 # 🚀 Podcast-gerado-por-IA 🤖
 
 ## DadoCast: Explorando a Ciência dos Dados 🌐
-Este projeto foi desenvolvido visando a conclusão de um desafio de projeto proposto pela empresa DIO. <br>
+Este projeto foi desenvolvido visando a conclusão de um desafio de projeto proposto pelo Felipe Aguiar na empresa DIO. <br>
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhosos.<br>
 
 ## Ferramentas usadas na criação do podcast 🛠️
